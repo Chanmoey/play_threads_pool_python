@@ -1,0 +1,6 @@
+# 文件夹
+.idea
+__pycache__
+
+# 文件
+test.py
